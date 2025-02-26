@@ -16,7 +16,7 @@
 
 ---
 
-### ⏰ **Week #2:**
+### ✅ **Week #2:**
 
 #### **Tema:** IA com TypeScript
 **Desafio:** Desenvolver um chatbot simples utilizando GPT.
