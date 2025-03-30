@@ -29,7 +29,7 @@
 
 ---
 
-### ⏰ **Week #3:**
+### ✅ **Week #3:**
 
 #### **Tema:** WebAssembly
 **Desafio:** Criar binários WebAssembly e executá-los em diferentes runtimes.
@@ -42,7 +42,7 @@
 
 ---
 
-### ⏰ **Week #4:**
+### ✅ **Week #4:**
 
 #### **Tema:** Eliza Básico
 **Desafio:** Criar um agente simples com Eliza utilizando um character file.
